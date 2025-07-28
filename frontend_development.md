@@ -40,7 +40,7 @@ Choose a framework for a frontend that can build applications that are able to b
 ### 1.3 UI Development ⚠️
 
 - **UI Library:** UI Library for the project should be implemented using [Storybook](https://storybook.js.org/)
-- **Kick-start UI Libraries:** [rebass.js](http://rebass.js/) | [blueprint](https://github.com/palantir/blueprint) | [ant-design](https://github.com/ant-design/ant-design) | [material v4](https://material-ui.com/blog/material-ui-v4-is-out/)
+- **Kick-start UI Libraries:** [rebass.js](https://rebass-v3.vercel.app/) ([docs](https://rebass-v3.vercel.app/), [github](https://github.com/rebassjs/rebass)) | [blueprint](https://github.com/palantir/blueprint) | [ant-design](https://github.com/ant-design/ant-design) | [material v4](https://material-ui.com/blog/material-ui-v4-is-out/)
 
 ---
 
